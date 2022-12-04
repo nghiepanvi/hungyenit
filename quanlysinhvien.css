@@ -1,0 +1,73 @@
+body {
+  overflow: scroll;
+}
+.banner {
+  border: 1px solid black;
+  text-align: center;
+  height: 200px;
+  background-color: green;
+  color: rgba(255, 0, 0, 0.863);
+  font-family: "Times New Roman", Times, serif;
+  padding-top: 90px;
+}
+h1 {
+  font-size: 40px;
+}
+
+.content {
+  margin-top: -30px;
+  padding-top: 0px;
+}
+.img1 {
+  float: left;
+  width: 430px;
+  margin-top: -310px;
+}
+.img2 {
+  float: right;
+  width: 430px;
+  margin-top: -320px;
+  height: 290px;
+}
+#strong {
+  color: yellow;
+}
+body {
+  background-color: rgb(184, 177, 177);
+}
+.button {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  background-color: gray;
+  color: white;
+  border: green solid 1px;
+  margin: 5px;
+}
+.table {
+  font-display: black;
+  margin: 0 auto;
+  padding: 20px;
+  font-size: 22px;
+  font-family: "Times New Roman", Times, serif;
+}
+th {
+  text-align: center;
+  padding: none;
+  margin: none;
+  border: 1px solid blue;
+}
+td {
+  text-align: center;
+  padding: none;
+  margin: none;
+  border: 1px solid blue;
+}
+.search {
+  width: 300px;
+  height: 30px;
+}
+.tim-kiem {
+  float: right;
+  margin-top: -40px;
+}
